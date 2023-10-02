@@ -15,6 +15,7 @@
     "uuid": "^9.0.1",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "http//vinicioslucas.github.io/costs",
   "scripts": {
     "start": "react-scripts start",
     "backend": "json-server --watch db.json --port 5000",
@@ -39,5 +40,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
   }
 }
