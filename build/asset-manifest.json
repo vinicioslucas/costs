@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/http//vinicioslucas.github.io/costs/static/css/main.53011242.css",
+    "main.js": "/http//vinicioslucas.github.io/costs/static/js/main.6246b926.js",
+    "static/media/savings.svg": "/http//vinicioslucas.github.io/costs/static/media/savings.25a5174d3c0ce57522d68f3ba58b7407.svg",
+    "index.html": "/http//vinicioslucas.github.io/costs/index.html",
+    "static/media/loading.svg": "/http//vinicioslucas.github.io/costs/static/media/loading.5ff8599871e56a8a672f0861a01ef3bc.svg",
+    "main.53011242.css.map": "/http//vinicioslucas.github.io/costs/static/css/main.53011242.css.map",
+    "main.6246b926.js.map": "/http//vinicioslucas.github.io/costs/static/js/main.6246b926.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53011242.css",
+    "static/js/main.6246b926.js"
+  ]
+}

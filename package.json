@@ -17,6 +17,8 @@
   },
   "homepage": "http//vinicioslucas.github.io/costs",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "backend": "json-server --watch db.json --port 5000",
     "build": "react-scripts build",
